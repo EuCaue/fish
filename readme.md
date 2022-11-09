@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for fish</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -35,5 +35,4 @@ $EDITOR rose-pine.fish
 after change, make a PR. 😀
 
 - Lowercase meta files, eg. `readme.md`
-- Format repo description as "Soho vibes for App"
 - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
