@@ -19,7 +19,8 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Screenshot from 2022-11-10 10-53-06](https://user-images.githubusercontent.com/69485603/201110280-c2d52612-ee88-4ae5-9c44-ed1221ecba5f.png)
+
 
 ## Thanks to
 
@@ -33,6 +34,3 @@ cd fish/
 $EDITOR rose-pine.fish
 ```
 after change, make a PR. 😀
-
-- Lowercase meta files, eg. `readme.md`
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
