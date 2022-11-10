@@ -1,0 +1,1 @@
+/home/caue/dotfiles/dotconfig/fish/conf.d/rose-pine.fish
