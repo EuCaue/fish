@@ -19,7 +19,7 @@
 
 ## Gallery
 
-![Screenshot from 2022-11-10 10-53-06](https://user-images.githubusercontent.com/69485603/201110280-c2d52612-ee88-4ae5-9c44-ed1221ecba5f.png)
+![Screenshot from 2022-11-10 10-56-28](https://user-images.githubusercontent.com/69485603/201110692-35463792-3ad2-44af-adfc-7ee6e2852830.png)
 
 
 ## Thanks to
