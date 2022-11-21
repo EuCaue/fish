@@ -4,7 +4,7 @@
 # if you have any suggestions, make a PR. 😃
 
 # Color Palette
-set --local foreground e0def4 # text
+set --local foreground 908caa # base 
 set --local selection 524f67 # highlight high
 set --local selectionvi 524f67 # highlight high
 set --local autosuggestions c4a7e7 # iris
