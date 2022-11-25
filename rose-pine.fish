@@ -4,11 +4,11 @@
 # if you have any suggestions, make a PR. 😃
 
 # Color Palette
-set --local foreground 908caa # base 
+set --local foreground 31748f # pine 
 set --local selection 524f67 # highlight high
 set --local selectionvi 524f67 # highlight high
 set --local autosuggestions c4a7e7 # iris
-set --local comment c4a7e7    # iris
+set --local comment c4a7e7 # iris
 set --local separators ebbcba # rose 
 set --local errors eb6f92 # love 
 set --local rootcolor eb6f92 # love 
@@ -20,10 +20,10 @@ set --local quote f6c177 # gold
 set --local description f6c177 # gold 
 set --local param 9ccfd8 # foam 
 set --local redirection ebbcba # rose
-set --local progress 1f1d2e  # surface
-set --local selection e0def4 # text
+set --local progress 1f1d2e # surface
+set --local selectiontext e0def4 # text
 set --local prefix 9ccfd8 # foam
-set --local secondary 191724  # base
+set --local secondary 191724 # base
 set --local userprompt c4a7e7 # iris 
 set --local host 524f67 # highlight high 
 set --local keyword ebbcba # rose
@@ -50,11 +50,11 @@ set --global fish_color_param $param # The color for ordinary command parameters
 set --global fish_color_quote $quote # The color for quoted text. (like "abc")
 set --global fish_color_redirection $redirection # The color for IO redirections. (like >/dev/null)
 set --global fish_color_search_match --background=$selection # Used to highlight history search matches and the selected pager item (background only).
-set --global fish_color_selection $selectionvi  --bold --background=$selectionvi # The color used when selecting text (in vi visual mode).
+set --global fish_color_selection $selectionvi --bold --background=$selectionvi # The color used when selecting text (in vi visual mode).
 set --global fish_color_status $errors # The color used when stopped at a breakpoint.
 set --global fish_color_user $userprompt # The color used for the username in the default prompt.
 set --global fish_color_valid_path --underline # The color used for valid path.
-set --global fish_pager_color_completion $foreground # The color of the completion itself, i.e. the proposed rest of the string.
+set --global fish_pager_color_completion $selectiontext # The color of the completion itself, i.e. the proposed rest of the string.
 set --global fish_pager_color_description $description --dim # The color of the completion description.
 set --global fish_pager_color_prefix $prefix --bold # The color of the prefix string, i.e. the string that is to be completed.
 set --global fish_pager_color_progress --background=$progress # The color of the progress bar at the bottom left corner.
