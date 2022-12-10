@@ -33,7 +33,7 @@ set --local operator f6c177 # gold
 # syntax highlighting variables
 set --global fish_color_autosuggestion $autosuggestions # the color used for autosuggestions. (the proposed rest of a command)
 set --global fish_color_cancel --reverse # the color for the '^c' indicator on a canceled command.
-set --global fish_color_command $command # the color for commands.
+set --global fish_color_command --bold $command # the color for commands.
 set --global fish_color_comment $comment # the color used for code comments. (like '# important')
 set --global fish_color_keyword $keyword # the color used for keywords like if - this falls back on command color if unset.
 set --global fish_color_cwd $cwduser # the color used for the current working directory in the default prompt.
