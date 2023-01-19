@@ -13,14 +13,33 @@
 
 ## Usage
 
-1. ```git clone https://github.com/EuCaue/fish```
-2. ```cd fish/```
-3. ```mv rose-pine.fish ~/.config/fish/conf.d/```
+Clone the repository:
+
+```sh
+git clone https://github.com/EuCaue/fish
+```
+
+Change directory:
+
+```sh
+cd fish/
+```
+
+Install Rosé Pine:
+
+```sh
+mv rose-pine.fish ~/.config/fish/conf.d/
+```
+
+Install Rosé Pine Dawn:
+
+```sh
+mv rose-pine-dawn.fish ~/.config/fish/conf.d/
+```
 
 ## Gallery
 
 ![image](https://user-images.githubusercontent.com/69485603/206857644-9424f0fe-a925-41b4-a764-53a51fac7483.png)
-
 
 ## Thanks to
 
@@ -33,4 +52,5 @@ git clone https://github.com/EuCaue/fish
 cd fish/
 $EDITOR rose-pine.fish
 ```
+
 after change, make a PR. 😀
