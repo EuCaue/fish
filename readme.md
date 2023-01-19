@@ -39,18 +39,19 @@ mv rose-pine-dawn.fish ~/.config/fish/conf.d/
 
 ## Gallery
 
-![image](https://user-images.githubusercontent.com/69485603/206857644-9424f0fe-a925-41b4-a764-53a51fac7483.png)
+![Rose-Pine](https://user-images.githubusercontent.com/69485603/206857644-9424f0fe-a925-41b4-a764-53a51fac7483.png) ![Rose-Pine-Dawn](https://user-images.githubusercontent.com/69485603/213517029-873e7d53-8fd0-4eef-a59b-ea3263c52288.png)
+
 
 ## Thanks to
 
 - [EuCaue](https://github.com/EuCaue)
-
+- [astsu-dev](https://github.com/astsu-dev)
 ## Contributing
 
 ```sh
 git clone https://github.com/EuCaue/fish
 cd fish/
-$EDITOR rose-pine.fish
+$EDITOR <rose-pine-variant.fish>
 ```
 
 after change, make a PR. 😀
